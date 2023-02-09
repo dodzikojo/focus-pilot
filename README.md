@@ -1,6 +1,9 @@
 # Focus Pilot
+## Live Preview
+(https://dodzikojo.github.io/focus-pilot/) - a productivity app that builds on the concept of [Pomodoro Technique]
+
 ## Description
-This is a code for [Focus Pilot](https://maijako.github.io/focus-pilot/) - a productivity app that builds on the concept of [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to help increase focus and let user stay organized and up-to-date in activities that are important to them.
+Focus Pilot is a productivity app that builds on the concept of [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to help increase focus and let user stay organized and up-to-date in activities that are important to them.
 
 The app features a simple responsive design, different screens and interactive controls that allow the user to set a customizable Pomodoro timer, add personal tasks to the list of activities that will persist through the refreshing of the page, play focus music during work blocks, and follow the built-in guided meditation activities during break times. The music and the rotating background images promote focus and productivity, and the toggle-able weather and news panels keep the user up-to-date on a need-to-know basis.
 
